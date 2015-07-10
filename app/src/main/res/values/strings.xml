@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NavigationViewExample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="inbox">Inbox</string>
+    <string name="send">Send</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+
+    <string name="sent_emails">Sent Emails</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="inbox_fragment_hi">Hi Inbox Fragment</string>
+
+</resources>
